@@ -257,27 +257,6 @@ I'm interested in combining my Computer Science background with my Japanese-lang
 
 ---
 
-# Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity"/>
-
-</div>
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
-
-</div>
-
-*The contribution snake requires a GitHub Actions workflow to generate the SVG. Configure that workflow in your profile repository before expecting this section to display.*
-
----
 
 # Current Focus
 
@@ -310,11 +289,11 @@ career_goals:
 
 <div align="center">
 
-<a href="https://github.com/YOUR-GITHUB-USERNAME">
+<a href="https://github.com/sathyaravichandran">
 <img src="https://img.shields.io/badge/GitHub-Visit%20Profile-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+<a href="https://www.linkedin.com/in/sathya-r-999662365/?isSelfProfile=true">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
 </a>
 
